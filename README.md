@@ -1,6 +1,6 @@
 <h1 align="center">Thomas Albuquerque</h1>
 <p align="center">
-  Desenvolvedor Full Stack com foco em soluções inteligentes e interfaces organizadas.
+  Desenvolvedor Full Stack
 </p>
 
 <div align="center">
