@@ -1,55 +1,60 @@
-<h1 align="center">Olá! Eu sou o Thomas Albuquerque</h1>
-
+<h1 align="center">Thomas Albuquerque</h1>
 <p align="center">
-  Desenvolvedor Full Stack com foco em sistemas inteligentes, automações e soluções empresariais.
+  Desenvolvedor Full Stack com foco em soluções inteligentes e interfaces organizadas.
 </p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,spring,react,html,css,js,postgres,docker,git" />
+</div>
 
 ---
 
 ### Sobre mim
 
-Gosto do desenvolvimento de sistemas e pela criação de soluções que realmente facilitam o dia a dia das pessoas e das empresas.
+Desenvolvedor com experiência prática no desenvolvimento de sistemas completos, do backend à interface final.
 
-Atualmente desenvolvo sistemas voltados à **gestão de estoque**, **vendas**, **controle de comissões** e **automação de processos**, usando uma stack moderna e boas práticas de código limpo.
+Atuo com foco em qualidade de código, boas práticas, design limpo e funcionalidades úteis para o dia a dia de empresas e usuários.
+
+Trabalho com APIs, autenticação de usuários, controle de estoque, dashboards, relatórios e automações de processos.
 
 ---
 
 ### Tecnologias e Ferramentas
 
-- **Back-end:** Python (Flask, FastAPI), Java (Spring Boot)
-- **Front-end:** React.js, HTML5, CSS3, JavaScript
+- **Backend:** Python (Flask, FastAPI), Java (Spring Boot)
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
 - **Banco de dados:** PostgreSQL, SQLite
-- **Outros:** Docker, Git, GitHub Actions, REST APIs
-- **Design & prototipação:** Figma, Canva
+- **Estilização:** Tailwind CSS, CSS Grid/Flexbox, responsividade
+- **Outros:** Git, GitHub Actions, Docker, Figma, Canva
 
 ---
 
-###  Projetos em desenvolvimento
+### Projetos em destaque
 
-| Projeto                          | Descrição                                                                 |
-|----------------------------------|---------------------------------------------------------------------------|
-| **Sistema de Estoque**           | Controle de entrada e saída com registro por lote e validade (FastAPI + React) |
-| **Barbearia Online**             | Agendamentos com histórico, valores e controle de tempo (Flask + React)  |
-| **Painel de Vendas e Comissões** | Gestão de vendas, cálculo de comissões por corretor e relatórios gerenciais (Spring + PostgreSQL) |
+| Projeto                          | Stack Principal             | Descrição                                                                 |
+|----------------------------------|-----------------------------|---------------------------------------------------------------------------|
+| Sistema de Estoque              | FastAPI + React             | Registro de entrada, saída, lote, validade e relatórios gerenciais        |
+| Agendamento Barbearia           | Flask + React               | Agenda online com histórico, valor por serviço e tempo estimado           |
+| Painel de Vendas e Comissões    | Java Spring + PostgreSQL    | Controle de vendas e cálculo automático de comissões para equipe          |
 
 ---
 
-###  Atualmente estudando:
+### Em evolução constante
 
 - Arquitetura limpa (Clean Architecture)
-- Testes automatizados (PyTest e JUnit)
-- CI/CD com GitHub Actions
+- Testes automatizados (PyTest, JUnit, React Testing Library)
+- Integração contínua com GitHub Actions
 - Deploy com Docker e AWS
 
 ---
 
-###  Onde me encontrar
+### Contato
 
-- [LinkedIn]([https://www.linkedin.com/in/thomasalbuquerque](https://www.linkedin.com/in/thomas-albuquerque-41139519a/)/)
-- 📧 thomas.solucoesemsoftware@gmail.com
+- LinkedIn: [](https://www.linkedin.com/in/thomas-albuquerque-41139519a/))
+- E-mail: thomas.solucoesemsoftware@gmail.com
 
 ---
 
 <p align="center">
-  Obrigado pela visita! 🚀
+  Obrigado por visitar meu perfil. Explore meus repositórios e fique à vontade para entrar em contato.
 </p>
