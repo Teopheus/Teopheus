@@ -50,7 +50,6 @@ Trabalho com APIs, autenticação de usuários, controle de estoque, dashboards,
 
 ### Contato
 
-- LinkedIn: [](https://www.linkedin.com/in/thomas-albuquerque-41139519a/))
 - E-mail: thomas.solucoesemsoftware@gmail.com
 
 ---
