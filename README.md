@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Thomas Albuquerque
 
-<!--
-**Teopheus/Teopheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Full Stack com foco em soluções eficientes para automação de processos e sistemas de controle.
 
-Here are some ideas to get you started:
+🔧 Tecnologias que utilizo:
+- **Backend**: Python (Flask, FastAPI), Java (Spring Boot)
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Banco de Dados**: PostgreSQL, SQLite
+- **Outros**: Docker, Git, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projetos em andamento:
+- Sistema de Gestão de Estoque com Entradas/Saídas e Lote (FastAPI + React)
+- Sistema de Agendamento para Barbearia (Flask + React)
+
+📈 Sempre estudando e melhorando:
+- Arquitetura limpa
+- Testes automatizados
+- CI/CD e deploy em nuvem (AWS)
+
+---
