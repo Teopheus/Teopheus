@@ -29,16 +29,6 @@ Trabalho com APIs, autenticação de usuários, controle de estoque, dashboards,
 
 ---
 
-### Projetos em destaque
-
-| Projeto                          | Stack Principal             | Descrição                                                                 |
-|----------------------------------|-----------------------------|---------------------------------------------------------------------------|
-| Sistema de Estoque              | FastAPI + React             | Registro de entrada, saída, lote, validade e relatórios gerenciais        |
-| Agendamento Barbearia           | Flask + React               | Agenda online com histórico, valor por serviço e tempo estimado           |
-| Painel de Vendas e Comissões    | Java Spring + PostgreSQL    | Controle de vendas e cálculo automático de comissões para equipe          |
-
----
-
 ### Em evolução constante
 
 - Arquitetura limpa (Clean Architecture)
