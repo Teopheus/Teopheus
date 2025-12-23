@@ -1,49 +1,62 @@
-<h1 align="center">Thomas Albuquerque</h1>
-<p align="center">
-  Desenvolvedor Full Stack
-</p>
+<div align="center">
+  <h1>Olá, eu sou o Thomas Albuquerque! 👋</h1>
+  <p><strong>Desenvolvedor Full Stack | Transformando ideias em software eficiente</strong></p>
+
+  <a href="mailto:thomas.solucoesemsoftware@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+### 📝 Sobre Mim
+
+Sou um desenvolvedor apaixonado por construir sistemas ponta a ponta. Meu foco é entregar código limpo, escalável e que resolva problemas reais de negócio.
+
+- 🚀 Atualmente focado em **Arquitetura Limpa** e **Sistemas Distribuídos**.
+- 🛠️ Experiência com APIs robustas, autenticação, dashboards e automação.
+- 🎓 Constantemente aprimorando testes automatizados e cultura DevOps.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,spring,react,html,css,js,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,spring,react,js,postgres,docker,git,tailwind,figma,githubactions,aws" />
+</div>
+
+<br />
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Backend** | Python (Flask, FastAPI), Java (Spring Boot) |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3 |
+| **Dados & Infra** | PostgreSQL, SQLite, Docker, AWS |
+| **Design & Ferramentas** | Tailwind CSS, Figma, Git, GitHub Actions |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=visual_studio_code"/>
 </div>
 
 ---
 
-### Sobre mim
+### 📫 Vamos conversar?
 
-Desenvolvedor com experiência prática no desenvolvimento de sistemas completos, do backend à interface final.
+Seja para um projeto, uma dúvida ou apenas trocar figurinha sobre tecnologia, sinta-se à vontade para me chamar!
 
-Atuo com foco em qualidade de código, boas práticas, design limpo e funcionalidades úteis para o dia a dia de empresas e usuários.
+* 📧 **Email:** [thomas.solucoesemsoftware@gmail.com](mailto:thomas.solucoesemsoftware@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 
-Trabalho com APIs, autenticação de usuários, controle de estoque, dashboards, relatórios e automações de processos.
-
----
-
-### Tecnologias e Ferramentas
-
-- **Backend:** Python (Flask, FastAPI), Java (Spring Boot)
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Banco de dados:** PostgreSQL, SQLite
-- **Estilização:** Tailwind CSS, CSS Grid/Flexbox, responsividade
-- **Outros:** Git, GitHub Actions, Docker, Figma, Canva
-
----
-
-### Em evolução constante
-
-- Arquitetura limpa (Clean Architecture)
-- Testes automatizados (PyTest, JUnit, React Testing Library)
-- Integração contínua com GitHub Actions
-- Deploy com Docker e AWS
-
----
-
-### Contato
-
-- E-mail: thomas.solucoesemsoftware@gmail.com
-
----
+<br />
 
 <p align="center">
-  Obrigado por visitar meu perfil. Explore meus repositórios e fique à vontade para entrar em contato.
+  <em>Obrigado por visitar meu perfil! Explore meus repositórios abaixo. 🚀</em>
 </p>
