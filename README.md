@@ -30,7 +30,7 @@
 
 Desenvolvedor Full Stack graduando em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de interfaces modernas e APIs escaláveis.
 
-Atualmente, atuo na **GW Sistemas** com triagem técnica e QA, o que me proporcionou uma visão única sobre **prevenção de bugs** e **usabilidade**. Minha abordagem une a capacidade analítica de resolução de problemas com a entrega de código limpo e performático.
+Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou uma visão única sobre **prevenção de bugs** e **usabilidade**. Minha abordagem une a capacidade analítica de resolução de problemas com a entrega de código limpo e performático.
 
 ---
 
@@ -87,23 +87,11 @@ Desenvolvimento de uma aplicação Full Stack complexa para controle logístico,
 
 ### 🎓 Formação e Carreira
 
-**Analista de Suporte Técnico (Foco em QA)** | *GW Sistemas (2023 - Presente)*
+**Analista de Suporte Técnico** | *GW Sistemas (2023 - Presente)*
 * Análise técnica de incidentes, debugging e suporte direto ao time de engenharia.
 * Execução de testes manuais e validação de funcionalidades em ambiente de homologação.
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** | *Estácio (Conclusão: 2025)*
-
-<br />
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teopheus&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=666666&icon_color=0077B5&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teopheus&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=666666&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell,hack,html,css" height="160" alt="Top Languages" />
-</div>
-
-<br />
 
 <div align="center">
   <p>
