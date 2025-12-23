@@ -26,7 +26,7 @@
 
 <hr />
 
-### 💼 Resumo Profissional
+###  Resumo Profissional
 
 Desenvolvedor Full Stack graduando em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de interfaces modernas e APIs escaláveis.
 
@@ -34,7 +34,7 @@ Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou 
 
 ---
 
-### 🛠️ Expertise Técnica
+###  Expertise Técnica
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou 
 
 <br />
 
-### 🚀 Projeto em Destaque: Gestão de Estoque e Logística
+###  Projeto em Destaque: Gestão de Estoque e Logística
 
 Desenvolvimento de uma aplicação Full Stack complexa para controle logístico, focada em otimização de fluxo e integridade de dados.
 
@@ -85,7 +85,7 @@ Desenvolvimento de uma aplicação Full Stack complexa para controle logístico,
 
 <br />
 
-### 🎓 Formação e Carreira
+###  Formação e Carreira
 
 **Analista de Suporte Técnico** | *GW Sistemas (2023 - Presente)*
 * Análise técnica de incidentes, debugging e suporte direto ao time de engenharia.
