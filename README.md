@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://github.com/SEU-USUARIO">
+    <a href="https://github.com/Teopheus">
       <img src="https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github&logoColor=white" height="25" alt="Portfolio" />
     </a>
   </p>
@@ -26,15 +26,15 @@
 
 <hr />
 
-###  Resumo Profissional
+### 💼 Resumo Profissional
 
 Desenvolvedor Full Stack graduando em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de interfaces modernas e APIs escaláveis.
 
-Atualmente, atuo na **GW Sistemas** como suporte, o que me proporcionou uma visão única sobre **prevenção de bugs** e **usabilidade**. Minha abordagem une a capacidade analítica de resolução de problemas com a entrega de código limpo e performático.
+Atualmente, atuo na **GW Sistemas** com triagem técnica e QA, o que me proporcionou uma visão única sobre **prevenção de bugs** e **usabilidade**. Minha abordagem une a capacidade analítica de resolução de problemas com a entrega de código limpo e performático.
 
 ---
 
-###  Expertise Técnica
+### 🛠️ Expertise Técnica
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ Atualmente, atuo na **GW Sistemas** como suporte, o que me proporcionou uma vis�
 
 <br />
 
-###  Projeto em Destaque: Gestão de Estoque e Logística
+### 🚀 Projeto em Destaque: Gestão de Estoque e Logística
 
 Desenvolvimento de uma aplicação Full Stack complexa para controle logístico, focada em otimização de fluxo e integridade de dados.
 
@@ -85,9 +85,9 @@ Desenvolvimento de uma aplicação Full Stack complexa para controle logístico,
 
 <br />
 
-###  Formação e Carreira
+### 🎓 Formação e Carreira
 
-**Analista de Suporte Técnico** | *GW Sistemas (2023 - Presente)*
+**Analista de Suporte Técnico (Foco em QA)** | *GW Sistemas (2023 - Presente)*
 * Análise técnica de incidentes, debugging e suporte direto ao time de engenharia.
 * Execução de testes manuais e validação de funcionalidades em ambiente de homologação.
 
@@ -95,12 +95,12 @@ Desenvolvimento de uma aplicação Full Stack complexa para controle logístico,
 
 <br />
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teopheus&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Teopheus&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=666666&icon_color=0077B5&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teopheus&layout=compact&theme=graywhite&hide_border=true&langs_count=6&hide_title=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teopheus&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=666666&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell,hack,html,css" height="160" alt="Top Languages" />
 </div>
 
 <br />
