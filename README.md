@@ -87,7 +87,7 @@ Desenvolvimento de uma aplicação Full Stack complexa para controle logístico,
 
 ### 🎓 Formação e Carreira
 
-**Analista de Suporte Técnico (Foco em QA)** | *GW Sistemas (2023 - Presente)*
+**Analista de Suporte Técnico** | *GW Sistemas (2023 - Presente)*
 * Análise técnica de incidentes, debugging e suporte direto ao time de engenharia.
 * Execução de testes manuais e validação de funcionalidades em ambiente de homologação.
 
