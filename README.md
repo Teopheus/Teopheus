@@ -62,9 +62,3 @@ Minha abordagem foca na criação de código limpo, escalável e de fácil manut
 * Atuação direta na análise de logs e debugging de aplicações em produção.
 * Desenvolvimento de scripts de automação para redução de tarefas repetitivas.
 * Colaboração com o time de QA para validação de correções e novas releases.
-
----
-
-### GitHub Stats
-
-![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Teopheus&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true)
