@@ -1,11 +1,11 @@
 <div align="center">
   <br />
   <h1>Thomas Albuquerque</h1>
-  <h3>Full Stack Developer | React.js & Python</h3>
+  <h3>Full Stack Developer | Java, Python & React.js</h3>
   <p>
-    Desenvolvedor com forte background analítico e experiência em QA.
+    Engenheiro de Software com forte background analítico.
     <br/>
-    Focado em sistemas robustos, Clean Architecture e eficiência operacional.
+    Focado em sistemas robustos, Clean Architecture e soluções de automação.
   </p>
   
   <p>
@@ -28,9 +28,9 @@
 
 ###  Resumo Profissional
 
-Desenvolvedor Full Stack graduando em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de interfaces modernas e APIs escaláveis.
+Desenvolvedor Full Stack graduando em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de interfaces modernas, automações e APIs escaláveis.
 
-Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou uma visão única sobre **prevenção de bugs** e **usabilidade**. Minha abordagem une a capacidade analítica de resolução de problemas com a entrega de código limpo e performático.
+Atualmente, atuo na **GW Sistemas**, onde combino triagem técnica com desenvolvimento de soluções, garantindo **prevenção de bugs** e eficiência operacional. Minha abordagem une a capacidade analítica de resolução de problemas com a entrega de código limpo em Java, Python e JavaScript.
 
 ---
 
@@ -39,13 +39,13 @@ Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Backend Core</h3>
-      <p align="center">APIs & Arquitetura</p>
+      <h3 align="center">Backend & Automação</h3>
+      <p align="center">APIs, Bots & Regras de Negócio</p>
       <ul>
-        <li><code>Python</code> <code>FastAPI</code> <code>Flask</code></li>
         <li><code>Java</code> <code>Spring Boot</code></li>
+        <li><code>Python</code> <code>FastAPI</code></li>
+        <li><code>Typebot</code> <code>Chatbots</code></li>
         <li><code>Clean Architecture</code></li>
-        <li><code>Autenticação JWT</code></li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -53,8 +53,8 @@ Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou 
       <p align="center">Interfaces Modernas</p>
       <ul>
         <li><code>React.js</code> <code>Hooks</code></li>
+        <li><code>Tailwind CSS</code> <code>Bootstrap</code></li>
         <li><code>Axios</code> <code>React Router</code></li>
-        <li><code>Tailwind CSS</code> <code>HTML5/CSS3</code></li>
         <li>Design Responsivo</li>
       </ul>
     </td>
@@ -64,7 +64,7 @@ Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou 
       <ul>
         <li><code>SQL</code> <code>PostgreSQL</code></li>
         <li><code>Git/GitHub</code> <code>Linux</code></li>
-        <li><code>Scrum</code> <code>AWS (Cloud)</code></li>
+        <li><code>Scrum</code> <code>AWS</code></li>
         <li>IntelliJ & VS Code</li>
       </ul>
     </td>
@@ -73,23 +73,21 @@ Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou 
 
 <br />
 
-###  Projeto em Destaque: Gestão de Estoque e Logística
+###  Projetos em Destaque
 
-Desenvolvimento de uma aplicação Full Stack complexa para controle logístico, focada em otimização de fluxo e integridade de dados.
-
-| Recurso | Detalhes da Implementação |
-| :--- | :--- |
-| **Controle Logístico** | Implementação de lógica **FIFO** (First-In, First-Out), gerenciamento de paletes e segregação de materiais. |
-| **Arquitetura** | Backend robusto com **Autenticação JWT** e operações CRUD otimizadas em SQL. |
-| **Frontend** | Dashboards interativos e relatórios gerenciais utilizando **React.js** e Tailwind. |
+| Projeto | Tecnologias | Detalhes |
+| :--- | :--- | :--- |
+| **Gestão Logística** | `Java` `React` `SQL` | Sistema Full Stack com lógica **FIFO**, controle de paletes e dashboards gerenciais. |
+| **Monitor de Voos** | `Python` `Bootstrap` | Ferramenta de pesquisa e gerenciamento de dados de voos com backend em Python. |
+| **Chatbots Inteligentes** | `Typebot` `Integrações` | Desenvolvimento de assistentes virtuais para clínicas e atendimento automatizado. |
 
 <br />
 
 ###  Formação e Carreira
 
 **Analista de Suporte Técnico** | *GW Sistemas (2023 - Presente)*
-* Análise técnica de incidentes, debugging e suporte direto ao time de engenharia.
-* Execução de testes manuais e validação de funcionalidades em ambiente de homologação.
+* Suporte direto à engenharia, debugging e validação de software.
+* Desenvolvimento de scripts e automações para otimização de processos internos.
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** | *Estácio (Conclusão: 2025)*
 
@@ -97,6 +95,6 @@ Desenvolvimento de uma aplicação Full Stack complexa para controle logístico,
   <p>
     <strong>Thomas Albuquerque</strong> — Olinda, PE
     <br />
-    <small>Aberto a novas oportunidades de desenvolvimento.</small>
+    <small>Focado em criar soluções que resolvem problemas reais.</small>
   </p>
 </div>
