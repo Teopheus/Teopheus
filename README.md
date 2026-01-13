@@ -65,6 +65,6 @@ Minha abordagem foca na criação de código limpo, escalável e de fácil manut
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teopheus&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-</div>
+### GitHub Stats
+
+![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Teopheus&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true)
