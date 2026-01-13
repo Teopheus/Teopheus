@@ -1,203 +1,94 @@
 <div align="center">
-
-  <br />
-
-  <h1>Thomas Albuquerque</h1>
-
-  <h3>Full Stack Developer | React.js & Python</h3>
-
-  <p>
-
-    Desenvolvedor com forte background analítico e experiência em QA.
-
-    <br/>
-
-    Focado em sistemas robustos, Clean Architecture e eficiência operacional.
-
-  </p>
-
-  
-
-  <p>
-
-    <a href="https://linkedin.com/in/thomas-albuquerque-41139519a">
-
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
-
-    </a>
-
-    &nbsp;
-
-    <a href="mailto:thomas.albuquerqueeu@gmail.com">
-
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" alt="Email" />
-
-    </a>
-
-    &nbsp;
-
-    <a href="https://github.com/Teopheus">
-
-      <img src="https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github&logoColor=white" height="25" alt="Portfolio" />
-
-    </a>
-
-  </p>
-
-  <br />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Thomas+Albuquerque;Full+Stack+Developer;Java+%26+Spring+Boot;Python+%26+Automa%C3%A7%C3%A3o;React.js+%26+Front-end" alt="Typing SVG" />
+  </a>
 </div>
 
+<div align="center">
+  <h3>Soluções Robustas | Código Limpo | Foco no Negócio</h3>
+</div>
 
+<br />
 
-<hr />
+<div align="center">
+  <a href="https://linkedin.com/in/thomas-albuquerque-41139519a">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:thomas.albuquerqueeu@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Teopheus">
+    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-
-
-###  Resumo Profissional
-
-
-
-Desenvolvedor Full Stack graduando em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de interfaces modernas e APIs escaláveis.
-
-
-
-Atualmente, atuo na **GW Sistemas** com triagem técnica, o que me proporcionou uma visão única sobre **prevenção de bugs** e **usabilidade**. Minha abordagem une a capacidade analítica de resolução de problemas com a entrega de código limpo e performático.
-
-
+<br />
 
 ---
 
+### 👨‍💻 Sobre Mim
 
+Sou **Engenheiro de Software** em formação e **Desenvolvedor Full Stack** apaixonado por resolver problemas reais. Atualmente na **GW Sistemas**, combino minha experiência analítica em suporte com o desenvolvimento de novas features.
 
-###  Expertise Técnica
+* 🔭 **Foco atual:** Arquitetura de Microsserviços com **Spring Boot** e automações inteligentes com **Python**.
+* 🌱 **Estudando:** Cloud Computing (AWS) e Arquitetura Limpa.
+* 🚀 **Objetivo:** Criar sistemas escaláveis que impactam positivamente a operação do usuário final.
+* 📍 **Localização:** Olinda, PE.
 
+---
 
-
-<table>
-
-  <tr>
-
-    <td width="33%" valign="top">
-
-      <h3 align="center">Backend Core</h3>
-
-      <p align="center">APIs & Arquitetura</p>
-
-      <ul>
-
-        <li><code>Python</code> <code>FastAPI</code> <code>Flask</code></li>
-
-        <li><code>Java</code> <code>Spring Boot</code></li>
-
-        <li><code>Clean Architecture</code></li>
-
-        <li><code>Autenticação JWT</code></li>
-
-      </ul>
-
-    </td>
-
-    <td width="33%" valign="top">
-
-      <h3 align="center">Frontend & UI</h3>
-
-      <p align="center">Interfaces Modernas</p>
-
-      <ul>
-
-        <li><code>React.js</code> <code>Hooks</code></li>
-
-        <li><code>Axios</code> <code>React Router</code></li>
-
-        <li><code>Tailwind CSS</code> <code>HTML5/CSS3</code></li>
-
-        <li>Design Responsivo</li>
-
-      </ul>
-
-    </td>
-
-    <td width="33%" valign="top">
-
-      <h3 align="center">Infra & Ferramentas</h3>
-
-      <p align="center">DevOps & Dados</p>
-
-      <ul>
-
-        <li><code>SQL</code> <code>PostgreSQL</code></li>
-
-        <li><code>Git/GitHub</code> <code>Linux</code></li>
-
-        <li><code>Scrum</code> <code>AWS (Cloud)</code></li>
-
-        <li>IntelliJ & VS Code</li>
-
-      </ul>
-
-    </td>
-
-  </tr>
-
-</table>
-
-
-
-<br />
-
-
-
-###  Projeto em Destaque: Gestão de Estoque e Logística
-
-
-
-Desenvolvimento de uma aplicação Full Stack complexa para controle logístico, focada em otimização de fluxo e integridade de dados.
-
-
-
-| Recurso | Detalhes da Implementação |
-
-| :--- | :--- |
-
-| **Controle Logístico** | Implementação de lógica **FIFO** (First-In, First-Out), gerenciamento de paletes e segregação de materiais. |
-
-| **Arquitetura** | Backend robusto com **Autenticação JWT** e operações CRUD otimizadas em SQL. |
-
-| **Frontend** | Dashboards interativos e relatórios gerenciais utilizando **React.js** e Tailwind. |
-
-
-
-<br />
-
-
-
-###  Formação e Carreira
-
-
-
-**Analista de Suporte Técnico** | *GW Sistemas (2023 - Presente)*
-
-* Análise técnica de incidentes, debugging e suporte direto ao time de engenharia.
-
-* Execução de testes manuais e validação de funcionalidades em ambiente de homologação.
-
-
-
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** | *Estácio (Conclusão: 2025)*
-
-
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
+  
+  **Backend & Core**
+  <br />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  <p>
+  <br />
+  
+  **Frontend & Design**
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-    <strong>Thomas Albuquerque</strong> — Olinda, PE
+  <br />
 
-    <br />
+  **Ferramentas & DevOps**
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Typebot-004EEB?style=for-the-badge&logo=probot&logoColor=white" />
+</div>
 
-    <small>Aberto a novas oportunidades de desenvolvimento.</small>
+---
 
-  </p>
+### 🧩 Projetos em Destaque
 
+| Projeto | Stack Principal | Descrição |
+| :--- | :--- | :--- |
+| **✈️ Monitor de Voos** | `Python` `Bootstrap` | Sistema de pesquisa e gerenciamento de dados aéreos com interface amigável. |
+| **📦 Gestão Logística** | `Java` `Spring` `React` | Aplicação robusta com lógica **FIFO**, controle de estoque e dashboards. |
+| **🤖 Chatbots Clínicos** | `Typebot` `API` | Automação de atendimento para triagem e agendamento em clínicas. |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teopheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teopheus&layout=compact&theme=dracula"/>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Teopheus&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
